@@ -1,4 +1,5 @@
 *{
+    
     margin: 0%;
     padding: 0%;
     font-family: "Ubuntu", sans-serif;
@@ -85,4 +86,120 @@ header{
 .halfwidth img{
     width: 80%;
     
+}
+.options{
+    display: flex;
+}
+.opbox{
+    background-color: #F8FFFB;
+    height: 270px;
+    width: 270px;
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    padding-left: 3%;
+    border-radius: 10px;
+}
+.opicon img{
+    
+    height: 80px;
+    width: 65px;
+    padding: 5px;
+}
+.opicon{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+#box2{
+    background-color: white;
+    border: 1px solid transparent;
+    box-shadow: 1px 0.5px 5px #888888;
+    border-radius: 10px;
+}
+.textop{
+    padding: 2px;
+}
+#oc{
+    font-weight: 900;
+}
+.online-courses{
+    text-align: center;
+    height: 650px;
+}
+.course-panal{
+    display: flex;
+}
+.ochead{
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+.coursecard{
+    height: 480px;
+    width: 370px;
+    margin-left:5% ;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.courseimg img{
+    height: 230px;
+    width: 330px;
+    margin: 5.5%;
+    border-radius: 10px;
+}
+.coursetext{
+    margin-left: 5%;
+    text-align: left;
+}
+.buylink{
+    margin-top: 50px;
+}
+.buylink a{
+    height: 35px;
+    width: 135px;
+    background-color: #21B573;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+}
+.cp-buttom{
+    display: flex;
+    margin-left: 5%;
+    text-align: left;
+    margin-top: 10%;
+}
+.cpb-icon img{
+    height: 24px;
+    width: 24px;
+}
+.cpbdate{
+    display: flex;
+}
+.cpbpp{
+    margin-left: 25%;
+}
+
+.testimonial{
+    margin: 5%;
+    height: 300px;
+}
+.thead{
+    margin: 2%;
+    padding: 1%;
+    text-align: center;
+}
+.timg img{
+    margin-left: 200px;
+    height: 120px;
+    width: 120px;
+}
+.tcont{
+    display: flex;
+    align-items: center;
+}
+.ttext{
+    width: 580px;
+    height: 90px;
 }
