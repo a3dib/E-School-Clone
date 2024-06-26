@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: #F0FFF0;
+    height: 500px;
+    width: 100%;
+}
+.navbar{
+    
+    display: flex;
+}
+.nav-logo{
+    height: 40px;
+    width: 120px;
+}
+.logo img{
+    height: 40px;
+    width: 120px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.navbutton{
+    margin-left: 700px;
+    display: flex;
+}
+.booksbutton{
+    margin-top: 30px;
+    margin-right: 38px;
+}
+.Coursebutton{
+    margin-top: 30px;
+    margin-right: 38px;
+    
+}
+.Blogbutton{
+    margin-top: 30px;
+    margin-right: 38px;
+}
+.othersbutton{
+    margin-top: 30px;
+    margin-right: 38px;
+}
+.singupbutton{
+    margin-top: 25px;
+    padding: 2%;
+    height: 20px;
+    width: 120px;
+    background-color: #21B573;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+}
+.halfwidth{
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+.headertext{
+    padding: 2%;
+}
+.secndrow{
+    display: flex;
+}
+#headstart{
+    height: 20px;
+    width: 80px;
+    padding: 1%;
+    background-color: #21B573;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 5%;
+}
+.halfwidth img{
+    width: 80%;
+    
+}
