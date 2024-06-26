@@ -202,4 +202,6 @@ header{
 .ttext{
     width: 580px;
     height: 90px;
+    margin-left: 5%;
+    margin-top: 2%;
 }
